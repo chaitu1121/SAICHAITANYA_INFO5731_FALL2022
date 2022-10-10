@@ -1,0 +1,15 @@
+While stabilizing the original text of Ramayana, historians surmised that portions of two Books [Kaandas], namely Book I, Bala Kaanda and Book VII, Uttara Ramayana (not listed above) are later additions - "The first and the last Books of the Ramayana are later additions. The bulk, consisting of Books II--VI, represents Rama as an ideal hero. In Books I and VII, however Rama is made an avatara or incarnation of Vishnu, and the epic poem is transformed into a Vaishnava text. The reference to the Greeks, Parthians, and Sakas show that these Books cannot be earlier than the second century B.C......"[ The cultural Heritage of India, Vol. IV, The Religions, The Ramakrishna Mission, Institute of Culture ].
+
+However Book I, Balakanda is considered to be an original version except for some injected stories. Story starts from the fifth chapter of Book I, and tradition demands it to be read with the others. This stipulation is not obligatory to Uttara Kaanda, a later kaanda, wherein Sita's expulsion to forest takes place. Theologists worship Sri Rama as a God incarnate, philosophers make him the philosophical Absolute, while at the same time, materialists, condemning the above, appreciate the lyrical values of Ramayana, but as a great devotee-singer said "Whoever calls you in whatever way, you are that One". 
+
+Ramayana contains 24,000 verses [sloka] arranged into numerous cantos [sarga] which are contained in 6 books as mentioned earlier. Each chapter, sarga, will be given briefly in english prose at its start and each verse will be rendered into Anglo-Sanskrit transliteration using ITRANS transliteration scheme developed by Avinash Chopde. Each verse will be followed by the Word by Word meaning followed by its gist and explained based on theism, culture, literature as appropriate. The numbering of each verse will be in the format Book-Canto-Verse. We are also providing Verses in Devanagari Unicode and Roman fonts for easier readability. The authors would like to express their appreciation to Avinash Chopde for developing ITRANS scheme.
+
+This Valmiki Ramayana in Sanskrit is being translated and presented by Sri Desiraju Hanumanta Rao (Bala, Aranya and Kishkindha Kanda ) and Sri K. M. K. Murthy (Ayodhya, Sundara (28-Last sargas) and Yuddha Kanda) with contributions from Durga Naaga Devi and Vaasudeva Kishore (Sundara Kanda (1-27 sargas)); Smt. Desiraju Kumari; Smt. K. Rajeswari, with all enthusiasm and devotion to classical literature of India, with humble and due respect to elders, pundits and to all those who respect Srimad Valmiki Ramayana the epic poem.
+
+We have started work on rendering Sanskrit verses into audio, an idea given by Prof. (Dr.) Sravan Goparaju. Following people are contributing to this effort:
+Bala Kanda - Dr. (Mrs.) V. Roja Ravindra, Smt. Sujatha Srinivas Goparaju
+Kishkindha Kanda - Smt. Sujatha Srinivas Goparaju
+Sundara Kanda - Smt. Aswini Ram Tulluri, Sri. Sasikiran Chintalapudi and Smt. Swapna Sasikiran Chintalapudi
+Audio mixing - Dr. V.S. Ravindra, Sri. V.S. Sailendra
+
+The verse below is recited at the beginning of any auspicious ta
